@@ -1,12 +1,28 @@
-h1 {
-  font-size: 50px;
+.nike {
+  font-size: 75px;
   color: #fa804c;
+  font-weight: bold;
 }
-p {
-  font-size: 25px;
+.run {
+  font-size: 70px;
+  font-weight: bold;
+}
+.cart {
+  width: 30px;
+}
+.Shoes {
+  height: 385px;
+  background-color: #f1f1f1;
+}
+.card {
+  font-size: 18px;
+}
+.doller {
+  font-size: 30px;
+  font-weight: bold;
+  color: #fa804c;
 }
 .picture {
   width: 600px;
   height: 500px;
-  margin-top: 40px;
 }
